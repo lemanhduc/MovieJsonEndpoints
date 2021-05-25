@@ -1,4 +1,4 @@
-package com.cognizant.movielist;
+package com.cognizant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
